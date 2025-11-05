@@ -5,3 +5,7 @@ fixed/
 # Temporary analysis files  
 quality_issues.json
 CLEANUP_REPORT.md
+
+# Verification scripts and outputs
+manual_verification.py
+verification_issues.json
