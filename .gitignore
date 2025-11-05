@@ -1,0 +1,7 @@
+# Intermediate processing directories
+cleaned/
+fixed/
+
+# Temporary analysis files  
+quality_issues.json
+CLEANUP_REPORT.md
